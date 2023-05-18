@@ -1,0 +1,34 @@
+C:\Users\Илья\Documents\Visual Studio 2017\Projects\UnitTestingCourse\Business.Tests\bin\Debug\Business.Tests.dll
+C:\Users\Илья\Documents\Visual Studio 2017\Projects\UnitTestingCourse\Business.Tests\bin\Debug\Business.Tests.pdb
+C:\Users\Илья\Documents\Visual Studio 2017\Projects\UnitTestingCourse\Business.Tests\bin\Debug\nunit.framework.dll
+C:\Users\Илья\Documents\Visual Studio 2017\Projects\UnitTestingCourse\Business.Tests\bin\Debug\UnitTestingCourse.dll
+C:\Users\Илья\Documents\Visual Studio 2017\Projects\UnitTestingCourse\Business.Tests\bin\Debug\UnitTestingCourse.pdb
+C:\Users\Илья\Documents\Visual Studio 2017\Projects\UnitTestingCourse\Business.Tests\bin\Debug\nunit.framework.xml
+C:\Users\Илья\Documents\Visual Studio 2017\Projects\UnitTestingCourse\Business.Tests\obj\Debug\Business.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Илья\Documents\Visual Studio 2017\Projects\UnitTestingCourse\Business.Tests\obj\Debug\Business.Tests.dll
+C:\Users\Илья\Documents\Visual Studio 2017\Projects\UnitTestingCourse\Business.Tests\obj\Debug\Business.Tests.pdb
+C:\Users\Илья\Documents\Visual Studio 2017\Projects\UnitTestingCourse\Business.Tests\bin\Debug\NSubstitute.dll
+C:\Users\Илья\Documents\Visual Studio 2017\Projects\UnitTestingCourse\Business.Tests\bin\Debug\NSubstitute.xml
+C:\Users\Kenneth Muuli\Desktop\Udemy Unit Testing Course\UnitTestingCourse\Business.Tests\bin\Debug\NUnit3.TestAdapter.dll
+C:\Users\Kenneth Muuli\Desktop\Udemy Unit Testing Course\UnitTestingCourse\Business.Tests\bin\Debug\NUnit3.TestAdapter.pdb
+C:\Users\Kenneth Muuli\Desktop\Udemy Unit Testing Course\UnitTestingCourse\Business.Tests\bin\Debug\nunit.engine.dll
+C:\Users\Kenneth Muuli\Desktop\Udemy Unit Testing Course\UnitTestingCourse\Business.Tests\bin\Debug\nunit.engine.api.dll
+C:\Users\Kenneth Muuli\Desktop\Udemy Unit Testing Course\UnitTestingCourse\Business.Tests\bin\Debug\nunit.engine.core.dll
+C:\Users\Kenneth Muuli\Desktop\Udemy Unit Testing Course\UnitTestingCourse\Business.Tests\bin\Debug\testcentric.engine.metadata.dll
+C:\Users\Kenneth Muuli\Desktop\Udemy Unit Testing Course\UnitTestingCourse\Business.Tests\bin\Debug\Business.Tests.dll
+C:\Users\Kenneth Muuli\Desktop\Udemy Unit Testing Course\UnitTestingCourse\Business.Tests\bin\Debug\Business.Tests.pdb
+C:\Users\Kenneth Muuli\Desktop\Udemy Unit Testing Course\UnitTestingCourse\Business.Tests\bin\Debug\Castle.Core.dll
+C:\Users\Kenneth Muuli\Desktop\Udemy Unit Testing Course\UnitTestingCourse\Business.Tests\bin\Debug\NSubstitute.dll
+C:\Users\Kenneth Muuli\Desktop\Udemy Unit Testing Course\UnitTestingCourse\Business.Tests\bin\Debug\nunit.framework.dll
+C:\Users\Kenneth Muuli\Desktop\Udemy Unit Testing Course\UnitTestingCourse\Business.Tests\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Kenneth Muuli\Desktop\Udemy Unit Testing Course\UnitTestingCourse\Business.Tests\bin\Debug\UnitTestingCourse.dll
+C:\Users\Kenneth Muuli\Desktop\Udemy Unit Testing Course\UnitTestingCourse\Business.Tests\bin\Debug\UnitTestingCourse.pdb
+C:\Users\Kenneth Muuli\Desktop\Udemy Unit Testing Course\UnitTestingCourse\Business.Tests\bin\Debug\Castle.Core.xml
+C:\Users\Kenneth Muuli\Desktop\Udemy Unit Testing Course\UnitTestingCourse\Business.Tests\bin\Debug\NSubstitute.xml
+C:\Users\Kenneth Muuli\Desktop\Udemy Unit Testing Course\UnitTestingCourse\Business.Tests\bin\Debug\nunit.framework.xml
+C:\Users\Kenneth Muuli\Desktop\Udemy Unit Testing Course\UnitTestingCourse\Business.Tests\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Kenneth Muuli\Desktop\Udemy Unit Testing Course\UnitTestingCourse\Business.Tests\obj\Debug\Business.Tests.csproj.AssemblyReference.cache
+C:\Users\Kenneth Muuli\Desktop\Udemy Unit Testing Course\UnitTestingCourse\Business.Tests\obj\Debug\Business.Tests.csproj.CoreCompileInputs.cache
+C:\Users\Kenneth Muuli\Desktop\Udemy Unit Testing Course\UnitTestingCourse\Business.Tests\obj\Debug\Business.Tests.csproj.CopyComplete
+C:\Users\Kenneth Muuli\Desktop\Udemy Unit Testing Course\UnitTestingCourse\Business.Tests\obj\Debug\Business.Tests.dll
+C:\Users\Kenneth Muuli\Desktop\Udemy Unit Testing Course\UnitTestingCourse\Business.Tests\obj\Debug\Business.Tests.pdb

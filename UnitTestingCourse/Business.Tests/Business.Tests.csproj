@@ -67,7 +67,9 @@
     <Compile Include="GeneratingTests.cs" />
     <Compile Include="GlobalSetupTeardown.cs" />
     <Compile Include="MoneyTests.cs" />
+    <Compile Include="MyStackTests.cs" />
     <Compile Include="RecordTests.cs" />
+    <Compile Include="RomanNumeralsTests.cs" />
     <Compile Include="SerialPortParserTests.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="SetupAndTeardown\CharacterTests.cs" />

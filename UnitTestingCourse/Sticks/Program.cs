@@ -8,8 +8,6 @@ namespace Sticks
     {
         static void Main(string[] args)
         {
-            var romParse = new RomanNumerals();
-            Console.WriteLine("This is my first char " + RomanNumerals.ParseRomanToArabicNumerals("Kenneth"));
 
             while (true)
             {

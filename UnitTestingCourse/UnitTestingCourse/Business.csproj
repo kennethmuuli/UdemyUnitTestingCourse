@@ -50,6 +50,7 @@
     <Compile Include="Device.cs" />
     <Compile Include="FizzBuzz.cs" />
     <Compile Include="Money.cs" />
+    <Compile Include="MyStack.cs" />
     <Compile Include="QuotationProcessor\Refactored\Action.cs" />
     <Compile Include="QuotationProcessor\Refactored\FileAction.cs" />
     <Compile Include="QuotationProcessor\Refactored\FileManager.cs" />

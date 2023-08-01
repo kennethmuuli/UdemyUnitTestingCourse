@@ -25,3 +25,22 @@ C:\Users\Kenneth Muuli\Desktop\Udemy Unit Testing Course\UnitTestingCourse\Stick
 C:\Users\Kenneth Muuli\Desktop\Udemy Unit Testing Course\UnitTestingCourse\Sticks\obj\Debug\Sticks.pdb
 C:\Users\Kenneth Muuli\Desktop\Udemy Unit Testing Course\UnitTestingCourse\Sticks\bin\Debug\UnitTestingCourse.dll
 C:\Users\Kenneth Muuli\Desktop\Udemy Unit Testing Course\UnitTestingCourse\Sticks\bin\Debug\UnitTestingCourse.pdb
+C:\Users\Kenneth Muuli\source\repos\UdemyUnitTestingCourse\UnitTestingCourse\Sticks\bin\Debug\NUnit3.TestAdapter.dll
+C:\Users\Kenneth Muuli\source\repos\UdemyUnitTestingCourse\UnitTestingCourse\Sticks\bin\Debug\NUnit3.TestAdapter.pdb
+C:\Users\Kenneth Muuli\source\repos\UdemyUnitTestingCourse\UnitTestingCourse\Sticks\bin\Debug\nunit.engine.dll
+C:\Users\Kenneth Muuli\source\repos\UdemyUnitTestingCourse\UnitTestingCourse\Sticks\bin\Debug\nunit.engine.api.dll
+C:\Users\Kenneth Muuli\source\repos\UdemyUnitTestingCourse\UnitTestingCourse\Sticks\bin\Debug\nunit.engine.core.dll
+C:\Users\Kenneth Muuli\source\repos\UdemyUnitTestingCourse\UnitTestingCourse\Sticks\bin\Debug\testcentric.engine.metadata.dll
+C:\Users\Kenneth Muuli\source\repos\UdemyUnitTestingCourse\UnitTestingCourse\Sticks\bin\Debug\Sticks.exe.config
+C:\Users\Kenneth Muuli\source\repos\UdemyUnitTestingCourse\UnitTestingCourse\Sticks\bin\Debug\Sticks.exe
+C:\Users\Kenneth Muuli\source\repos\UdemyUnitTestingCourse\UnitTestingCourse\Sticks\bin\Debug\Sticks.pdb
+C:\Users\Kenneth Muuli\source\repos\UdemyUnitTestingCourse\UnitTestingCourse\Sticks\bin\Debug\Sticks.Core.dll
+C:\Users\Kenneth Muuli\source\repos\UdemyUnitTestingCourse\UnitTestingCourse\Sticks\bin\Debug\UnitTestingCourse.dll
+C:\Users\Kenneth Muuli\source\repos\UdemyUnitTestingCourse\UnitTestingCourse\Sticks\bin\Debug\Sticks.Core.pdb
+C:\Users\Kenneth Muuli\source\repos\UdemyUnitTestingCourse\UnitTestingCourse\Sticks\bin\Debug\UnitTestingCourse.pdb
+C:\Users\Kenneth Muuli\source\repos\UdemyUnitTestingCourse\UnitTestingCourse\Sticks\obj\Debug\Sticks.csproj.AssemblyReference.cache
+C:\Users\Kenneth Muuli\source\repos\UdemyUnitTestingCourse\UnitTestingCourse\Sticks\obj\Debug\Sticks.csproj.SuggestedBindingRedirects.cache
+C:\Users\Kenneth Muuli\source\repos\UdemyUnitTestingCourse\UnitTestingCourse\Sticks\obj\Debug\Sticks.csproj.CoreCompileInputs.cache
+C:\Users\Kenneth Muuli\source\repos\UdemyUnitTestingCourse\UnitTestingCourse\Sticks\obj\Debug\Sticks.csproj.CopyComplete
+C:\Users\Kenneth Muuli\source\repos\UdemyUnitTestingCourse\UnitTestingCourse\Sticks\obj\Debug\Sticks.exe
+C:\Users\Kenneth Muuli\source\repos\UdemyUnitTestingCourse\UnitTestingCourse\Sticks\obj\Debug\Sticks.pdb
